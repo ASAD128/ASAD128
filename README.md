@@ -1,7 +1,7 @@
-Hi 👋 My name is Asad Hussain
+Hi 👋 I am Asad Hussain
 =============================
 
-Software Developer
+Software Developer | AI Engineer | Ruby On Rails 💎
 ------------------------
 
 7 years of diversified experience in Software Engineering. 5 years of solid Hands on Coding and 2 Years of Leading Team. Involved in full software development life cycle from system design, coding, testing and deployment.
