@@ -4,7 +4,7 @@ Hi 👋 I am Asad Hussain
 Software Developer | AI Engineer | Ruby On Rails 💎
 ------------------------
 
-7 years of diversified experience in Software Engineering. 5 years of solid Hands on Coding and 2 Years of Leading Team. Involved in full software development life cycle from system design, coding, testing and deployment.
+7+ years of diversified experience in Software Engineering. 5 years of solid Hands on Coding and 2 Years of Leading Team. Involved in full software development life cycle from system design, coding, testing and deployment.
 
 * 🌍  I'm based in Berlin, Germany 🇩🇪
 * 🖥️  See my Linked In profile at [Linked In](http://www.linkedin.com/in/asadhussainhnd/)
